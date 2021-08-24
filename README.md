@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @suvankit
 - 👀 I’m interested in the field of Data Science and Robotics
 - 🌱 I’m currently exploring this very field 
-- 💞️ I’m passionate about creating and destroying Robots
+- 💞️ I’m passionate about creating, destroying and recreating Robots
 - 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
 
 
