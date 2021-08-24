@@ -1,6 +1,6 @@
 ### Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 👋 Hi, I’m @suvankit
+- 👋 Hi, I’m Subhankit
 - 👀 I’m interested in the field of Data Science and Robotics
 - 🌱 I’m currently exploring this very field 
 - 💞️ I’m passionate about creating, destroying and recreating Robots
