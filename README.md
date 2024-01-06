@@ -30,9 +30,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/subhankitprusti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="subhankitprusti" /></a></p><br><br>
+<!---
+suvankit/suvankit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvankit&show_icons=true&locale=en&layout=compact" alt="suvankit" /></p>
-
+![Suvankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=suvankit&show_icons=true&theme=monokai)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvankit&" alt="suvankit" /></p>
 
 
@@ -45,10 +48,5 @@
 [1]: https://twitter.com/thisissuvankit
 [2]: https://www.linkedin.com/in/subhankit-prusti-1543ba1b0/
 
-<!---
-suvankit/suvankit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-![Suvankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=suvankit&show_icons=true&theme=monokai)
 
